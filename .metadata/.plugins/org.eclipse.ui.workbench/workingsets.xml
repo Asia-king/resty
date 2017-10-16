@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workingSetManager>
+<workingSet editPageId="org.eclipse.ui.resourceWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1490191575002_0" label="resty" name="resty">
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-route" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-orm" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-log" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-common" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-cache" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-upload" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-security" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-client" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-quartz" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-mail" type="4"/>
+<item factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/resty-example" type="4"/>
+</workingSet>
+</workingSetManager>

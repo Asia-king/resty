@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="D:/maven/cangku/com/sun/xml/bind/jaxb-impl/2.1.13/jaxb-impl-2.1.13.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="com.sun.xml.bind"/>
+			<attribute name="maven.artifactId" value="jaxb-impl"/>
+			<attribute name="maven.version" value="2.1.13"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
